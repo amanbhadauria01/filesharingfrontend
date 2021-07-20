@@ -12,13 +12,6 @@ body {
   overflow: hidden;
 }
 
-.logo {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  width: 250px;
-}
-
 .image-vector {
   width: 50vw;
   height: 50vh;
